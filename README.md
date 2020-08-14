@@ -2,7 +2,7 @@
 
 As a front-end and Gis developer
 
-🌱 I’m currently learning Webgl、Cesium
+🌱 I’m currently learning Vue3、 Webgl、Cesium
 
 🔭 Here are some personal works： 
   
