@@ -2,7 +2,7 @@
 
 🙌 I'm Caven Chen, As a front-end and Gis developer
 
-🌱 I’m currently learning Vue3、 Webgl、Cesium
+🌱 I’m currently learning vue3、 webgl、cesium and other development technologies 
 
 🔭 Here are some personal works： 
   
