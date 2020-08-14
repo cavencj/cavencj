@@ -10,7 +10,7 @@
   
    - 🌎 [dc-plugins](https://github.com/dvgis/dc-plugins): DC-SDK plug-in library, the plug-in library includes animation, effects, textures, heatmap, clusterLayer, and Mapv.
 
-   - 🌎 [cesium-map](https://github.com/dvgis/cesium-map): Cesium map plug-in for adding maps from major map manufacturers in ch
+   - 🌎 [cesium-map](https://github.com/dvgis/cesium-map): Cesium map plug-in for adding maps from major map manufacturers in China
 
 
 📫 How to reach me:
