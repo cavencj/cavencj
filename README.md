@@ -8,7 +8,7 @@
   
    - 🌎 [cesium-map](https://github.com/dvgis/cesium-map): Cesium map plug-in for adding maps from major map manufacturers in China
   
-   - 🌎 [dc-sdk](https://github.com/dvgis/dc-sdk): The SDK is a 2D and 3D integrated WebGis application framework based on the secondary development of Cesium. This framework optimizes the usage mode of Cesium and adds some additional functions, aiming to build WebGis applications for developers quickly.
+   - 🌎 [dc-sdk](https://github.com/dvgis/dc-sdk): The SDK is based on Cesium for secondary development of 2, 3D all-in-one WebGis application framework, the framework optimizes the use of Cesium and add some additional features, designed for developers to quickly build WebGis applications.
   
    - 🌎 [dc-plugins](https://github.com/dvgis/dc-plugins): DC-SDK plug-in library, the plug-in library includes animation, effects, textures, heatmap, clusterLayer, and Mapv.
    
