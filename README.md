@@ -18,7 +18,7 @@
    
    - Email: cavencj@gmail.com
    
-   - Twitter: [@cavencj](https://twitter.com/cavencj)
+   - X: [@cavencj](https://twitter.com/cavencj)
    
    - Personal website: https://cavencj.cn
 
