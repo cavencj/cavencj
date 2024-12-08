@@ -2,7 +2,7 @@
 
 🙌 I'm Caven Chen, As a front-end and Gis developer.
 
-🌱 I’m currently learning vue3、webgl、cesium、mapbox-gl、three、deck.gl and other development technologies.
+🌱 I’m currently learning vue3、webgl、cesium、maplibre-gl、threejs and other development technologies.
 
 🔭 Here are some personal works:
   
