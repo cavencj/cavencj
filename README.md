@@ -12,7 +12,7 @@
   
    - 🌎 [dc-sdk](https://github.com/dvt3d/dc-sdk): This SDK is based on the Cesium deep secondary development, the integration of 2D and 3D functionality of the WebGIS application framework. It not only carefully optimizes the use of Cesium, but also introduces a series of enhancements designed to help developers build WebGIS applications in a faster and more efficient way. 
      
-   - 🌎 [dm-sdk](https://github.com/dvt3d/dm-sdk): This SDK is based on Maplibre and Three.js for secondary development , designed for 3D geographic information application framework . It not only optimizes the use of Maplibre and Three.js.
+   - 🌎 [dmt-sdk](https://github.com/dvt3d/dmt-sdk): This SDK is based on Maplibre and Three.js for secondary development , designed for 3D geographic information application framework . It not only optimizes the use of Maplibre and Three.js.
   
 📫 How to reach me:
 
